@@ -3,7 +3,7 @@
     "name": "Personal Website",
     "technologies": "Typescript",
     "description": "this.",
-    "githubRepo": "https://github.com/leotred/kuryxa",
+    "githubRepo": "https://github.com/leotred/kuryuxa",
     "iconColor": "#3178c6",
     "borderColor": "#5a93d1"
   },
@@ -19,7 +19,7 @@
     "name": "notesapp",
     "technologies": "NodeJS",
     "description": "нотесы",
-    "githubRepo": "https://github.com/leotred/notes",
+    "githubRepo": "https://github.com/leotred/1576notes",
     "iconColor": "#555555",
     "borderColor": "#777777"
   },
@@ -27,7 +27,7 @@
     "name": "Instasamka_detector",
     "technologies": "C programming",
     "description": "C++ instasamka detector",
-    "githubRepo": "https://github.com/linux",
+    "githubRepo": "https://github.com/sec",
     "iconColor": "#555555",
     "borderColor": "#777777"
   },
@@ -35,7 +35,7 @@
     "name": "linux",
     "technologies": "Assembly",
     "description": "linux",
-    "githubRepo": "https://github.com/linux",
+    "githubRepo": "https://github.com/sec",
     "iconColor": "#6e4c13",
     "borderColor": "#9e6e1e"
   },
@@ -43,7 +43,7 @@
     "name": "...",
     "technologies": "...",
     "description": "More projects are coming soon...",
-    "githubRepo": "https://github.com/linux",
+    "githubRepo": "https://github.com/sec",
     "iconColor": "#555555",
     "borderColor": "#777777"
   }
