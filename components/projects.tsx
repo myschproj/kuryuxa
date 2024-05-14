@@ -16,7 +16,7 @@ export default function Projects() {
               <div className="flex items-center">
                 <Image
                   className="rounded-full mr-3 border-[#444c56] max-md:border-[#dededf] border-solid border-2 shadow-[#cdd9e51a] shadow-sm"
-                  src="https://avatars.githubusercontent.com/u/168182400?v=4"
+                  src="/168182400.png"
                   width="85"
                   height="85"
                   alt="my github profile picture"
