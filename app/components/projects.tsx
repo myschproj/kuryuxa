@@ -16,7 +16,7 @@ export default function Projects() {
               <div className="flex items-center">
                 <Image
                   className="rounded-full mr-3 border-[#444c56] max-md:border-[#dededf] border-solid border-2 shadow-[#cdd9e51a] shadow-sm"
-                  src="/github_profile.jpg"
+                  src="https://avatars.githubusercontent.com/u/168182400?v=4"
                   width="85"
                   height="85"
                   alt="my github profile picture"
@@ -26,7 +26,7 @@ export default function Projects() {
                     Kirill
                   </h4>
                   <h5 className="font-light  text-sm text-[#768390] max-md:text-[#656d76]">
-                    @krasnikov
+                    @A1zen06
                   </h5>
                   <h5 className="font-normal text-sm text-[#bacadb] max-md:text-[#1f2328]">
                     Backend python dev
@@ -36,7 +36,7 @@ export default function Projects() {
               <button
                 className="github_btn"
                 onClick={(e: React.MouseEvent<HTMLButtonElement>) => {
-                  openLink(e, "https://github.com/Krasnikov", "_blank");
+                  openLink(e, "https://github.com/A1zen06", "_blank");
                 }}
               >
                 Follow
