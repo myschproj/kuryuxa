@@ -10,12 +10,12 @@ export default function Footer() {
             <span className="">
               Created by{" "}
               <Link
-                href="https://aptxayc.ru/"
+                href="https://adgb.ru/"
                 target="_blank"
                 className="font-normal underline cursor-help"
               >
                 {" "}
-                aptxayc
+                adgb
               </Link>
               .
             </span>
@@ -40,7 +40,7 @@ export default function Footer() {
             </span>
           </div>
           <div className="flex gap-3.5 max-md:gap-1.5 self-end max-md:self-auto [&>*]:underline font-normal">
-            <Link href="https://github.com/krasnikov/" target="_blank">
+            <Link href="https://github.com/A1zen06/" target="_blank">
               GitHub
             </Link>
             <Link href="https://t.me/dominionyes/" target="_blank">
