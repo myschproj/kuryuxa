@@ -41,6 +41,14 @@ export default function Projects() {
               >
                 Follow
               </button>
+              <button
+                className="github_btn"
+                onClick={(e: React.MouseEvent<HTMLButtonElement>) => {
+                  openLink(e, "https://github.com/A1zen06", "_blank");
+                }}
+              >
+                Пойти на СВО
+              </button>
             </div>
           </div>
           <div className="flex items-center w-3/4 pr-5 max-xl:text-base max-lg:hidden">
