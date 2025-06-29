@@ -13,7 +13,7 @@ export default function Contact() {
           </div>
           <div className="text-center max-md:text-sm max-md:mb-3">
             <p>
-            Wanna work with me? Wanna make a project with me (or maybe you wanna sex (I can cum 20 times per night with only one woman!)? Feel free to DM me.
+            Wanna work with me? Wanna make a project with me? Feel free to DM.
             </p>
             <Link href="mailto:kirill@krasnikov.ru" className="font-medium underline">kirill@krasnikov.ru</Link>
           </div>
