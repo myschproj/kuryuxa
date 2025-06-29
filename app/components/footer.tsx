@@ -15,7 +15,7 @@ export default function Footer() {
                 className="font-normal underline cursor-help"
               >
                 {" "}
-                aptxayc
+                adgb
               </Link>
               .
             </span>
